@@ -9,13 +9,14 @@ why it used?** lets see
 
 ___________
 
+
  # what is the HTML Langage ?
 
-HTML stands for HyperText Markup Language and is the basic structural element that is used to create webpages. HTML is a markup language, which means that it is used to “mark up” the content within a document, in this case a webpage, with structural and semantic information that tells a browser how to display a page. When an HTML document is loaded by a web browser, the browser uses the HTML tags that have marked up the document to render the page’s content.
+*HTML stands for HyperText Markup Language and is the basic structural element that is used to create webpages. HTML is a markup language, which means that it is used to “mark up” the content within a document, in this case a webpage, with structural and semantic information that tells a browser how to display a page. When an HTML document is loaded by a web browser, the browser uses the HTML tags that have marked up the document to render the page’s content.*
 
 There are three types of code that make up a basic website page. HTML governs the structural elements, CSS styles those elements, and JavaScript enables dynamic interaction between those elements
 
-# Basic HTML Page Structure
+# Basic HTML Page Structure :
 
 A basic HTML page is a document that typically has the file extension .html, though HTML frequently appears in the content of other file types as well. All HTML documents follow the same basic structure so that the browser that renders the file knows what to do. The basic structure on which all webpages are built looks like this
 
