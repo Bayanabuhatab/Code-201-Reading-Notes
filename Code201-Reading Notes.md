@@ -17,7 +17,7 @@ here will be the special reading links in class 201
 |             |             |
 | class02     |    [](https://github.com/Bayanabuhatab/class01.md/blob/main/class02.md)         |
 |             |             |
-|             |             |
+|  class03    |    []()         |
 |             |             |
 |             |             |
 |             |             |
