@@ -53,7 +53,25 @@ Total element height = height + top padding + bottom padding + top border + bott
 
 ![](https://complete-concrete-concise.com/wp-content/uploads/2018/04/17-css-flow.png)
 
+# Basic JavaScript Instructions
+A computer program is a list of "instructions" to be "executed" by a computer.
+
+In a programming language, these programming instructions are called statements.
+
+A JavaScript program is a list of programming statements
+
+
 # “Decisions and Loops”
 ## COMPARING TWO EXPRESSIONS
 
+In the comparison operator, the operand on the left calculates the user's total score. The operand on the right adds together the highest scores foreach round. The result is then added to the page. When you assign the result ofthe comparison to a variable, you do not strictly need the containing parentheses (shownin white on the left-hand page). Some programmers use them anyway to indicate that the code evaluates into a single value. Others only use containing  parentheses when they form part of a condition.
+
+# USING LOGICAL OR and LOGICAL NOT
+
+![](http://2.bp.blogspot.com/-7g3MLOPo7R8/U1znpliY6kI/AAAAAAAABVU/4xgQL0JfLtQ/s1600/38+Logical+operators+in+java.JPG)
+
+
+refranse 
+[link 1](https://www.w3schools.com/js/js_statements.asp)
+[link 2](HTML book)
 
