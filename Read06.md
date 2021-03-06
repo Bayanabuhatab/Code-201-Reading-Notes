@@ -56,4 +56,5 @@ The way a document content is accessed and modified is called the Document Objec
 
 ![](https://simplesnippets.tech/wp-content/uploads/2018/10/what-is-document-object-model-in-JS-featured-image.jpg)
 
-Refranse [](https://www.dyn-web.com/tutorials/object-literal/)
+Refranse [1](https://www.dyn-web.com/tutorials/object-literal/)
+book of jscript
