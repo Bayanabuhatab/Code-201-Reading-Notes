@@ -43,3 +43,8 @@ lower-roman
 i. ii. iii.
 upper-roman
 I II III
+# BULLET POINT STYLES
+list-style-type
+The list-style-type property allows you to control the shape or style of a bullet point (also known as a marker).
+
+It can be used on rules that apply to the <ol, <ul, and <li elements.
